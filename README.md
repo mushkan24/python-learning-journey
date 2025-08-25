@@ -14,8 +14,9 @@ Each day contains:
 
 ## 📅 Progress
 - ✅ Day 1: Variables & Data Types  
-- ⏳ Day 2: Strings (in progress)  
-- 🔜 Day 3: Conditionals & Loops  
+- ✅ Day 2: Strings
+- ⏳ Day 3: Conditionals & Loops (in progress)  
+- 🔜 Day 4: Lists & Tuples 
 
 Follow along if you’re also on your Python journey! 🌱
 
